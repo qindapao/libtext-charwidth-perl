@@ -1,5 +1,11 @@
 package Text::DisplayWidth ;
 
+=head1 NAME
+
+Text::DisplayWidth - 提供字符串显示宽度计算函数
+
+=cut
+
 use 5.008;
 use strict;
 use warnings;

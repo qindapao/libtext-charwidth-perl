@@ -17,7 +17,7 @@ MODULE = Text::DisplayWidth        PACKAGE = Text::DisplayWidth
 
 
 int
-mbswidth(sv)
+display_width(sv)
     SV *sv
     CODE:
     {

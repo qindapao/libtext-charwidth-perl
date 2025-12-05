@@ -3,6 +3,6 @@ Makefile.PL
 MANIFEST
 ppport.h
 README
-CharWidth.pm
-CharWidth.xs
+DisplayWidth.pm
+DisplayWidth.xs
 t/use.t
